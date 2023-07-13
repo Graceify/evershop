@@ -52,5 +52,5 @@ jobs:
         with:
           app-name: 'gibi'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_DA9EE184ECF94FA28A080B0F6BE19EEA }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_7D4EBD41CDEB4FFCAE602A6B4A4B40F5 }}
           package: .
